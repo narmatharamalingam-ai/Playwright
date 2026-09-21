@@ -1,0 +1,48 @@
+[
+    
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "productname": "Sauce Labs Onesie",
+        "firstname": "John",
+        "lastname": "Mike",
+        "postcode": "78945",
+        "canlogin" :true,
+        "imagesBroken": false
+    },
+    {
+        "username": "locked_out_user",
+        "password": "secret_sauce",
+        "productname": "Sauce Labs Backpack",
+        "firstname": "Jorhn",
+        "lastname": "Smike",
+        "postcode": "98741",
+        "canlogin" :false,
+        "imagesBroken": false
+    },
+   
+    
+{
+        "username": "problem_user",
+        "password": "secret_sauce",
+        "productname": "Test.allTheThings() T-Shirt (Red)",
+        "firstname": "Pjohn",
+        "lastname": "Mikee",
+        "postcode": "56231",
+        "canlogin" :true,
+        "imagesBroken": true
+    },
+{
+        "username": "visual_user",
+        "password": "secret_sauce",
+         "productname": "Sauce Labs Fleece Jacket",
+        "firstname": "Johny",
+        "lastname": "Kike",
+        "postcode": "15962",
+        "canlogin" :true,
+        "imagesBroken": true
+    }
+
+
+
+]

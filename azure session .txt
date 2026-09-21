@@ -1,0 +1,1 @@
+export PLAYWRIGHT_SERVICE_URL=wss://eastus.api.playwright.microsoft.com/playwrightworkspaces/7775703b-cc41-4e7c-b161-f4ad5ae6c113/browsers
